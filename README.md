@@ -6,7 +6,7 @@ GardenX -is an excellent tool for all farmers around the world. We made it easy 
 
 Aldiyar Nurgazin 0.1
 
-Serputov Anatoliy 0.1
+Serputov Anatoliy 0.2
 
 Andrei Batomunkuev 0.1
 
