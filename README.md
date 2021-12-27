@@ -8,6 +8,6 @@ Aldiyar Nurgazin 0.7
 
 Serputov Anatoliy 0.7
 
-Andrei Batomunkuev 0.5
+Andrei Batomunkuev 0.6
 
 ## Links
